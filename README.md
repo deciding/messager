@@ -1,4 +1,2 @@
 # messager
-
-ssh -NfL 8889:localhost:8889 
-8acb5214a2152be7ded9dca6dd8354bb382020828c260e45
+../datasets/spkid/xvector-mfcc/8797-294123/8797_294123_000003_000000.npy
